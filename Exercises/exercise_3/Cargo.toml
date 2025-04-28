@@ -1,0 +1,9 @@
+[package]
+name = "exercise_3"
+version = "0.1.0"
+edition = "2024"
+[lib]
+name = "exercise_3"
+path = "src/lib.rs"
+
+[dependencies]
